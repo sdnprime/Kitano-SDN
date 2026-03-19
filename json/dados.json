@@ -2,8 +2,8 @@
   "dados": [
     {
       "id": "1",
-      "nome": "Cápsula de Cappuccino Classic TRES 3 Corações",
-      "categoria": "Cápsulas",
+      "nome": "Salsa 8g",
+      "categoria": "Ervas",
       "preco": 4.69,
       "imagem": "imagens/salsa.png",
       "informacaoNutricional": {
