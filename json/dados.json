@@ -2,12 +2,20 @@
   "dados": [
     {
       "id": "1",
-      "nome": "SALSA 8g",
+      "nome": "Cápsula de Cappuccino Classic TRES 3 Corações",
       "categoria": "Ervas",
       "preco": 4.69,
       "imagem": "imagens/salsa.png",
       "informacaoNutricional": {
-        "Valor energético (kcal)": "0%"
+        "Valor Energético": "44 kcal = 185 kJ",
+        "Carboidratos": "7,4 g",
+        "Açúcares": "6,6 g",
+        "Proteínas": "1,6 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0,9 g",
+        "Gorduras Saturadas": "0,5 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "38 mg"
       }
     }
   ]
