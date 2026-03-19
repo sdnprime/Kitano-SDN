@@ -1,0 +1,14 @@
+{
+  "dados": [
+    {
+      "id": "1",
+      "nome": "SALSA 8g",
+      "categoria": "Ervas",
+      "preco": 4.69,
+      "imagem": "imagens/salsa.png",
+      "informacaoNutricional": {
+        "Valor energético (kcal)": "0%"
+      }
+    }
+  ]
+}
