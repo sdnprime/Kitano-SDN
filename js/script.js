@@ -228,9 +228,6 @@ function deleteProduct() {
 
 // Configurar event listeners
 function setupEventListeners() {
-  // Botão adicionar produto
-  addProductBtn.addEventListener("click", () => openFormModal());
-
   // Busca
   searchInput.addEventListener("input", (e) => {
     searchQuery = e.target.value;
