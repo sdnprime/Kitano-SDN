@@ -7,15 +7,321 @@
       "preco": 4.69,
       "imagem": "imagens/salsa.png",
       "informacaoNutricional": {
-        "Valor Energético": "44 kcal = 185 kJ",
-        "Carboidratos": "7,4 g",
-        "Açúcares": "6,6 g",
-        "Proteínas": "1,6 g",
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
         "Gorduras Trans": "0 g",
-        "Gorduras Totais": "0,9 g",
-        "Gorduras Saturadas": "0,5 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
         "Fibra Alimentar": "0 g",
-        "Sódio": "38 mg"
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "2",
+      "nome": "Oregano 10g",
+      "categoria": "Ervas",
+      "preco": 4.89,
+      "imagem": "imagens/oregano.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "3",
+      "nome": "Curry 50g",
+      "categoria": "Especiarias",
+      "preco": 8.29,
+      "imagem": "imagens/curry.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "4",
+      "nome": "Erva-Doce 50g",
+      "categoria": "Especiarias",
+      "preco": 10.98,
+      "imagem": "imagens/erva-doce.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "5",
+      "nome": "Pimenta Caabresa em Flocos 13g",
+      "categoria": "Pimentas",
+      "preco": 7.19,
+      "imagem": "imagens/pimenta-calabresa-em-flocos.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "6",
+      "nome": "Pimenta-do-Reino Preta em Pó 15g",
+      "categoria": "Pimentas",
+      "preco": 5.98,
+      "imagem": "imagens/pimenta-do-reino-em-grao-preta.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "7",
+      "nome": "Tempero para Churrasco 12g",
+      "categoria": "Mix",
+      "preco": 6.29,
+      "imagem": "imagens/tempero-para-churrasco.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "8",
+      "nome": "Tempero Baiano 40g",
+      "categoria": "Mix",
+      "preco": 8.50,
+      "imagem": "imagens/tempero-baiano.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "9",
+      "nome": "Chimichurri 12g",
+      "categoria": "Mix",
+      "preco": 7.00,
+      "imagem": "imagens/chimichurri.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "10",
+      "nome": "Sal de Parrilla 500g",
+      "categoria": "Churrasco",
+      "preco": 17.99,
+      "imagem": "imagens/sal-parrilla.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "39000 mg"
+      }
+    },
+    {
+      "id": "11",
+      "nome": "Alho Tostado 90g",
+      "categoria": "Churrasco",
+      "preco": 18.88,
+      "imagem": "imagens/kitano-churrasquear-alhotostado.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "12",
+      "nome": "Vinagrete 40g",
+      "categoria": "Churrasco",
+      "preco": 22.99,
+      "imagem": "imagens/kitano-churrasquear-vinagrete.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "13",
+      "nome": "Colorífico 80g",
+      "categoria": "Culinário",
+      "preco": 3.99,
+      "imagem": "imagens/colorifico.png",
+      "informacaoNutricional": {
+        "Valor Energético": "19 kcal",
+        "Carboidratos": "4,1 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0,3 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0,2 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0,1 g",
+        "Sódio": "1,6 mg"
+      }
+    },
+    {
+      "id": "14",
+      "nome": "Caldo de Legumes 30g",
+      "categoria": "Culinário",
+      "preco": 9.69,
+      "imagem": "imagens/base-para-caldo-de-legumes.png",
+      "informacaoNutricional": {
+        "Valor Energético": "20 kcal",
+        "Carboidratos": "4,4 g",
+        "Açúcares": "1,5 g",
+        "Proteínas": "0,7 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "1,2 g",
+        "Sódio": "22 mg"
+      }
+    },
+    {
+      "id": "15",
+      "nome": "Alho Granulado 60g",
+      "categoria": "Culinário",
+      "preco": 8.35,
+      "imagem": "imagens/alho-granulado.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "16",
+      "nome": "Sal rosa do Himalaia 100g",
+      "categoria": "Linha Reserva",
+      "preco": 27.90,
+      "imagem": "imagens/product-himalaia.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "17",
+      "nome": "Páprica Defumada 36g",
+      "categoria": "Linha Reserva",
+      "preco": 17.65,
+      "imagem": "imagens/paprica-defumada.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "18",
+      "nome": "Mostarda em pó 35g",
+      "categoria": "Linha Reserva",
+      "preco": 22.89,
+      "imagem": "imagens/mostarda-em-po.png",
+      "informacaoNutricional": {
+        "Valor Energético": "0 kcal = 0 kJ",
+        "Carboidratos": "0 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "0 mg"
       }
     }
   ]
