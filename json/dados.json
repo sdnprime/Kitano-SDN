@@ -7,7 +7,7 @@
       "preco": 4.69,
       "imagem": "imagens/salsa.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
+        "Valor Energético": "3 kcal = 12,55 kJ",
         "Carboidratos": "0 g",
         "Açúcares": "0 g",
         "Proteínas": "0 g",
@@ -43,12 +43,12 @@
       "preco": 8.29,
       "imagem": "imagens/curry.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
+        "Valor Energético": "14 kcal = 60 kJ",
+        "Carboidratos": "2 g",
         "Açúcares": "0 g",
-        "Proteínas": "0 g",
+        "Proteínas": "0,6 g",
         "Gorduras Trans": "0 g",
-        "Gorduras Totais": "0 g",
+        "Gorduras Totais": "0,5 g",
         "Gorduras Saturadas": "0 g",
         "Fibra Alimentar": "0 g",
         "Sódio": "0 mg"
@@ -56,7 +56,7 @@
     },
     {
       "id": "4",
-      "nome": "Erva-Doce 50g",
+      "nome": "Erva-Doce 40g",
       "categoria": "Especiarias",
       "preco": 10.98,
       "imagem": "imagens/erva-doce.png",
@@ -74,19 +74,19 @@
     },
     {
       "id": "5",
-      "nome": "Pimenta Caabresa em Flocos 13g",
+      "nome": "Pimenta Calabresa em Flocos 13g",
       "categoria": "Pimentas",
       "preco": 7.19,
       "imagem": "imagens/pimenta-calabresa-em-flocos.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
+        "Valor Energético": "3,6 kcal = 15,12 kJ",
+        "Carboidratos": "0,7 g",
         "Açúcares": "0 g",
         "Proteínas": "0 g",
         "Gorduras Trans": "0 g",
         "Gorduras Totais": "0 g",
         "Gorduras Saturadas": "0 g",
-        "Fibra Alimentar": "0 g",
+        "Fibra Alimentar": "0,1 g",
         "Sódio": "0 mg"
       }
     },
@@ -97,15 +97,15 @@
       "preco": 5.98,
       "imagem": "imagens/pimenta-do-reino-em-grao-preta.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
+        "Valor Energético": "17 kcal = 71,13 kJ",
+        "Carboidratos": "4.4 g",
         "Açúcares": "0 g",
-        "Proteínas": "0 g",
+        "Proteínas": "0,7 g",
         "Gorduras Trans": "0 g",
-        "Gorduras Totais": "0 g",
+        "Gorduras Totais": "0.2 g",
         "Gorduras Saturadas": "0 g",
-        "Fibra Alimentar": "0 g",
-        "Sódio": "0 mg"
+        "Fibra Alimentar": "1.7 g",
+        "Sódio": "1,5 mg"
       }
     },
     {
@@ -123,7 +123,7 @@
         "Gorduras Totais": "0 g",
         "Gorduras Saturadas": "0 g",
         "Fibra Alimentar": "0 g",
-        "Sódio": "0 mg"
+        "Sódio": "1941 mg"
       }
     },
     {
@@ -133,15 +133,15 @@
       "preco": 8.50,
       "imagem": "imagens/tempero-baiano.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
-        "Açúcares": "0 g",
-        "Proteínas": "0 g",
+        "Valor Energético": "18 kcal = 75 kJ",
+        "Carboidratos": "2,7 g",
+        "Açúcares": "0,1 g",
+        "Proteínas": "0,5 g",
         "Gorduras Trans": "0 g",
-        "Gorduras Totais": "0 g",
+        "Gorduras Totais": "0,4 g",
         "Gorduras Saturadas": "0 g",
-        "Fibra Alimentar": "0 g",
-        "Sódio": "0 mg"
+        "Fibra Alimentar": "0,8 g",
+        "Sódio": "3,4 mg"
       }
     },
     {
@@ -151,15 +151,15 @@
       "preco": 7.00,
       "imagem": "imagens/chimichurri.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
-        "Açúcares": "0 g",
-        "Proteínas": "0 g",
+        "Valor Energético": "11 kcal = 46,05 kJ",
+        "Carboidratos": "2,7 g",
+        "Açúcares": "0,1 g",
+        "Proteínas": "2,8 g",
         "Gorduras Trans": "0 g",
-        "Gorduras Totais": "0 g",
+        "Gorduras Totais": "0,4 g",
         "Gorduras Saturadas": "0 g",
-        "Fibra Alimentar": "0 g",
-        "Sódio": "0 mg"
+        "Fibra Alimentar": "1 g",
+        "Sódio": "5 mg"
       }
     },
     {
@@ -171,13 +171,13 @@
       "informacaoNutricional": {
         "Valor Energético": "0 kcal = 0 kJ",
         "Carboidratos": "0 g",
-        "Açúcares": "0 g",
         "Proteínas": "0 g",
         "Gorduras Trans": "0 g",
         "Gorduras Totais": "0 g",
         "Gorduras Saturadas": "0 g",
         "Fibra Alimentar": "0 g",
-        "Sódio": "39000 mg"
+        "Sódio": "39000 mg",
+        "Iodo": "2500 μg",
       }
     },
     {
@@ -279,13 +279,13 @@
       "informacaoNutricional": {
         "Valor Energético": "0 kcal = 0 kJ",
         "Carboidratos": "0 g",
-        "Açúcares": "0 g",
         "Proteínas": "0 g",
         "Gorduras Trans": "0 g",
         "Gorduras Totais": "0 g",
         "Gorduras Saturadas": "0 g",
         "Fibra Alimentar": "0 g",
-        "Sódio": "36800 mg"
+        "Sódio": "36800 mg",
+        "Iodo": "2500 μg"
       }
     },
     {
@@ -322,6 +322,114 @@
         "Gorduras Saturadas": "0 g",
         "Fibra Alimentar": "0,5 g",
         "Sódio": "0 mg"
+      }
+    },
+    {
+      "id": "19",
+      "nome": "Sopão Legumes com Macarrão 196g",
+      "categoria": "Sopas",
+      "preco": 7.99,
+      "imagem": "imagens/kitano-sopao-legumes.png",
+      "informacaoNutricional": {
+        "Valor Energético": "33 kcal = 138 kJ",
+        "Carboidratos": "7,1 g",
+        "Açúcares": "0,2 g",
+        "Proteínas": "0,7 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0,2 g",
+        "Gorduras Saturadas": "0,1 g",
+        "Fibra Alimentar": "0,3 g",
+        "Sódio": "139 mg"
+      } 
+    },
+    {
+      "id": "20",
+      "nome": "Sopão de Carne 196g",
+      "categoria": "Sopas",
+      "preco": 11.49,
+      "imagem": "imagens/kitano-sopao-carne.png",
+      "informacaoNutricional": {
+        "Valor Energético": "32 kcal = 133 kJ",
+        "Carboidratos": "6,7 g",
+        "Açúcares": "0,6 g",
+        "Proteínas": "0,8 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0,2 g",
+        "Gorduras Saturadas": "0,1 g",
+        "Fibra Alimentar": "0,2 g",
+        "Sódio": "157 mg"
+      }
+    },
+    {
+      "id": "21",
+      "nome": "Sopão de Feijão 196g",
+      "categoria": "Sopas",
+      "preco": 11.29,
+      "imagem": "imagens/kitano-sopao-feijao.png",
+      "informacaoNutricional": {
+        "Valor Energético": "31 kcal = 129 kJ",
+        "Carboidratos": "6,1 g",
+        "Açúcares": "0,5 g",
+        "Proteínas": "1 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0,3 g",
+        "Gorduras Saturadas": "0,1 g",
+        "Fibra Alimentar": "0,5 g",
+        "Sódio": "153 mg"
+      }
+    },
+    {
+      "id": "22",
+      "nome": "Kitano Mais Sabor Carnes 60g",
+      "categoria": "Temperos",
+      "preco": 3.79,
+      "imagem": "imagens/kitano-mais-sabor-carnes.png",
+      "informacaoNutricional": {
+        "Valor Energético": "6 kcal = 25 kJ",
+        "Carboidratos": "1,4 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0,1 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0,1 g",
+        "Sódio": "917 mg"
+      }
+    },
+    {
+      "id": "23",
+      "nome": "Kitano Mais Sabor Aves 60g",
+      "categoria": "Temperos",
+      "preco": 3.69,
+      "imagem": "imagens/kitano-mais-sabor-aves.png",
+      "informacaoNutricional": {
+        "Valor Energético": "9 kcal = 37 kJ",
+        "Carboidratos": "1,7 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0,2 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0,1 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0,1 g",
+        "Sódio": "730 mg"
+      }
+    },
+    {
+      "id": "24",
+      "nome": "Kitano Mais Sabor Nordestino 60g",
+      "categoria": "Temperos",
+      "preco": 3.89,
+      "imagem": "imagens/kitano-mais-sabor-nordestino.png",
+      "informacaoNutricional": {
+        "Valor Energético": "8 kcal = 33 kJ",
+        "Carboidratos": "1,5 g",
+        "Açúcares": "0 g",
+        "Proteínas": "0,2 g",
+        "Gorduras Trans": "0 g",
+        "Gorduras Totais": "0,1 g",
+        "Gorduras Saturadas": "0 g",
+        "Fibra Alimentar": "0,1 g",
+        "Sódio": "792 mg"
       }
     }
   ]
