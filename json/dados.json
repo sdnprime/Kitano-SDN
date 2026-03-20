@@ -187,15 +187,15 @@
       "preco": 18.88,
       "imagem": "imagens/kitano-churrasquear-alhotostado.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
+        "Valor Energético": "22,4 kcal = 93,72 kJ",
+        "Carboidratos": "3,1 g",
         "Açúcares": "0 g",
-        "Proteínas": "0 g",
+        "Proteínas": "0,8 g",
         "Gorduras Trans": "0 g",
-        "Gorduras Totais": "0 g",
-        "Gorduras Saturadas": "0 g",
-        "Fibra Alimentar": "0 g",
-        "Sódio": "0 mg"
+        "Gorduras Totais": "0,8 g",
+        "Gorduras Saturadas": "0,3 g",
+        "Fibra Alimentar": "1,5 g",
+        "Sódio": "3 mg"
       }
     },
     {
@@ -205,15 +205,15 @@
       "preco": 22.99,
       "imagem": "imagens/kitano-churrasquear-vinagrete.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
+        "Valor Energético": "4 kcal = 15 kJ",
+        "Carboidratos": "0,7 g",
         "Açúcares": "0 g",
         "Proteínas": "0 g",
         "Gorduras Trans": "0 g",
         "Gorduras Totais": "0 g",
         "Gorduras Saturadas": "0 g",
         "Fibra Alimentar": "0 g",
-        "Sódio": "0 mg"
+        "Sódio": "203 mg"
       }
     },
     {
@@ -259,14 +259,14 @@
       "preco": 8.35,
       "imagem": "imagens/alho-granulado.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
+        "Valor Energético": "5 kcal",
+        "Carboidratos": "1 g",
         "Açúcares": "0 g",
-        "Proteínas": "0 g",
+        "Proteínas": "0,3 g",
         "Gorduras Trans": "0 g",
         "Gorduras Totais": "0 g",
         "Gorduras Saturadas": "0 g",
-        "Fibra Alimentar": "0 g",
+        "Fibra Alimentar": "0,2 g",
         "Sódio": "0 mg"
       }
     },
@@ -285,7 +285,7 @@
         "Gorduras Totais": "0 g",
         "Gorduras Saturadas": "0 g",
         "Fibra Alimentar": "0 g",
-        "Sódio": "0 mg"
+        "Sódio": "36800 mg"
       }
     },
     {
@@ -295,14 +295,14 @@
       "preco": 17.65,
       "imagem": "imagens/paprica-defumada.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
+        "Valor Energético": "11 kcal = 46 kJ",
+        "Carboidratos": "0,7 g",
         "Açúcares": "0 g",
-        "Proteínas": "0 g",
+        "Proteínas": "0,6 g",
         "Gorduras Trans": "0 g",
-        "Gorduras Totais": "0 g",
+        "Gorduras Totais": "0,6 g",
         "Gorduras Saturadas": "0 g",
-        "Fibra Alimentar": "0 g",
+        "Fibra Alimentar": "2,1 g",
         "Sódio": "0 mg"
       }
     },
@@ -313,14 +313,14 @@
       "preco": 22.89,
       "imagem": "imagens/mostarda-em-po.png",
       "informacaoNutricional": {
-        "Valor Energético": "0 kcal = 0 kJ",
-        "Carboidratos": "0 g",
+        "Valor Energético": "20 kcal = 84 kJ",
+        "Carboidratos": "1,2 g",
         "Açúcares": "0 g",
-        "Proteínas": "0 g",
+        "Proteínas": "1,5 g",
         "Gorduras Trans": "0 g",
         "Gorduras Totais": "0 g",
         "Gorduras Saturadas": "0 g",
-        "Fibra Alimentar": "0 g",
+        "Fibra Alimentar": "0,5 g",
         "Sódio": "0 mg"
       }
     }
