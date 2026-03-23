@@ -130,7 +130,7 @@
       "id": "8",
       "nome": "Tempero Baiano 40g",
       "categoria": "Mix",
-      "preco": 8.50,
+      "preco": 8.5,
       "imagem": "imagens/tempero-baiano.png",
       "informacaoNutricional": {
         "Valor Energético": "18 kcal = 75 kJ",
@@ -148,7 +148,7 @@
       "id": "9",
       "nome": "Chimichurri 12g",
       "categoria": "Mix",
-      "preco": 7.00,
+      "preco": 7.0,
       "imagem": "imagens/chimichurri.png",
       "informacaoNutricional": {
         "Valor Energético": "11 kcal = 46,05 kJ",
@@ -274,7 +274,7 @@
       "id": "16",
       "nome": "Sal rosa do Himalaia 100g",
       "categoria": "Linha Reserva",
-      "preco": 27.90,
+      "preco": 27.9,
       "imagem": "imagens/product-himalaia.png",
       "informacaoNutricional": {
         "Valor Energético": "0 kcal = 0 kJ",
@@ -340,7 +340,7 @@
         "Gorduras Saturadas": "0,1 g",
         "Fibra Alimentar": "0,3 g",
         "Sódio": "139 mg"
-      } 
+      }
     },
     {
       "id": "20",
