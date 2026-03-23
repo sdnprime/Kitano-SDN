@@ -4,7 +4,8 @@
       "id": "1",
       "nome": "Salsa 8g",
       "categoria": "Ervas",
-      "preco": 4.69,
+      "precoOriginal": 4.69,
+      "preco": "Por: R$: 0,00 + 150 pontos",
       "imagem": "imagens/salsa.png",
       "informacaoNutricional": {
         "Valor Energético": "3 kcal = 12,55 kJ",
@@ -22,7 +23,8 @@
       "id": "2",
       "nome": "Oregano 10g",
       "categoria": "Ervas",
-      "preco": 4.89,
+      "precoOriginal": 4.89,
+      "preco": "Por: R$: 0,00 + 150 pontos",
       "imagem": "imagens/oregano.png",
       "informacaoNutricional": {
         "Valor Energético": "0 kcal = 0 kJ",
@@ -40,7 +42,8 @@
       "id": "3",
       "nome": "Curry 50g",
       "categoria": "Especiarias",
-      "preco": 8.29,
+      "precoOriginal": 8.29,
+      "preco": "Por: R$: 0,00 + 150 pontos",
       "imagem": "imagens/curry.png",
       "informacaoNutricional": {
         "Valor Energético": "14 kcal = 60 kJ",
@@ -58,7 +61,8 @@
       "id": "4",
       "nome": "Erva-Doce 40g",
       "categoria": "Especiarias",
-      "preco": 10.98,
+      "precoOriginal": 10.98,
+      "preco": "Por: R$: 0,00 + 150 pontos",
       "imagem": "imagens/erva-doce.png",
       "informacaoNutricional": {
         "Valor Energético": "0 kcal = 0 kJ",
@@ -76,7 +80,8 @@
       "id": "5",
       "nome": "Pimenta Calabresa em Flocos 13g",
       "categoria": "Pimentas",
-      "preco": 7.19,
+      "precoOriginal": 7.19,
+      "preco": "Por: R$: 3,60 + 75 pontos",
       "imagem": "imagens/pimenta-calabresa-em-flocos.png",
       "informacaoNutricional": {
         "Valor Energético": "3,6 kcal = 15,12 kJ",
@@ -94,7 +99,8 @@
       "id": "6",
       "nome": "Pimenta-do-Reino Preta em Pó 15g",
       "categoria": "Pimentas",
-      "preco": 5.98,
+      "precoOriginal": 5.98,
+      "preco": "Por: R$: 3,00 + 75 pontos",
       "imagem": "imagens/pimenta-do-reino-em-grao-preta.png",
       "informacaoNutricional": {
         "Valor Energético": "17 kcal = 71,13 kJ",
@@ -112,7 +118,8 @@
       "id": "7",
       "nome": "Tempero para Churrasco 12g",
       "categoria": "Mix",
-      "preco": 6.29,
+      "precoOriginal": 6.29,
+      "preco": "Por: R$: 3,15 + 75 pontos",
       "imagem": "imagens/tempero-para-churrasco.png",
       "informacaoNutricional": {
         "Valor Energético": "0 kcal = 0 kJ",
@@ -130,7 +137,8 @@
       "id": "8",
       "nome": "Tempero Baiano 40g",
       "categoria": "Mix",
-      "preco": 8.5,
+      "precoOriginal": 8.5,
+      "preco": "Por: R$: 4,25 + 75 pontos",
       "imagem": "imagens/tempero-baiano.png",
       "informacaoNutricional": {
         "Valor Energético": "18 kcal = 75 kJ",
@@ -148,7 +156,8 @@
       "id": "9",
       "nome": "Chimichurri 12g",
       "categoria": "Mix",
-      "preco": 7.0,
+      "precoOriginal": 7.0,
+      "preco": "",
       "imagem": "imagens/chimichurri.png",
       "informacaoNutricional": {
         "Valor Energético": "11 kcal = 46,05 kJ",
@@ -166,7 +175,8 @@
       "id": "10",
       "nome": "Sal de Parrilla 500g",
       "categoria": "Churrasco",
-      "preco": 17.99,
+      "precoOriginal": 17.99,
+      "preco": "",
       "imagem": "imagens/sal-parrilla.png",
       "informacaoNutricional": {
         "Valor Energético": "0 kcal = 0 kJ",
@@ -184,7 +194,8 @@
       "id": "11",
       "nome": "Alho Tostado 90g",
       "categoria": "Churrasco",
-      "preco": 18.88,
+      "precoOriginal": 18.88,
+      "preco": "",
       "imagem": "imagens/kitano-churrasquear-alhotostado.png",
       "informacaoNutricional": {
         "Valor Energético": "22,4 kcal = 93,72 kJ",
@@ -202,7 +213,8 @@
       "id": "12",
       "nome": "Vinagrete 40g",
       "categoria": "Churrasco",
-      "preco": 22.99,
+      "precoOriginal": 22.99,
+      "preco": "",
       "imagem": "imagens/kitano-churrasquear-vinagrete.png",
       "informacaoNutricional": {
         "Valor Energético": "4 kcal = 15 kJ",
@@ -220,7 +232,8 @@
       "id": "13",
       "nome": "Colorífico 80g",
       "categoria": "Culinário",
-      "preco": 3.99,
+      "precoOriginal": 3.99,
+      "preco": "",
       "imagem": "imagens/colorifico.png",
       "informacaoNutricional": {
         "Valor Energético": "19 kcal",
@@ -238,7 +251,8 @@
       "id": "14",
       "nome": "Caldo de Legumes 30g",
       "categoria": "Culinário",
-      "preco": 9.69,
+      "precoOriginal": 9.69,
+      "preco": "",
       "imagem": "imagens/base-para-caldo-de-legumes.png",
       "informacaoNutricional": {
         "Valor Energético": "20 kcal",
@@ -256,7 +270,8 @@
       "id": "15",
       "nome": "Alho Granulado 60g",
       "categoria": "Culinário",
-      "preco": 8.35,
+      "precoOriginal": 8.35,
+      "preco": "",
       "imagem": "imagens/alho-granulado.png",
       "informacaoNutricional": {
         "Valor Energético": "5 kcal",
@@ -274,7 +289,8 @@
       "id": "16",
       "nome": "Sal rosa do Himalaia 100g",
       "categoria": "Linha Reserva",
-      "preco": 27.9,
+      "precoOriginal": 27.9,
+      "preco": "",
       "imagem": "imagens/product-himalaia.png",
       "informacaoNutricional": {
         "Valor Energético": "0 kcal = 0 kJ",
@@ -292,7 +308,8 @@
       "id": "17",
       "nome": "Páprica Defumada 36g",
       "categoria": "Linha Reserva",
-      "preco": 17.65,
+      "precoOriginal": 17.65,
+      "preco": "",
       "imagem": "imagens/paprica-defumada.png",
       "informacaoNutricional": {
         "Valor Energético": "11 kcal = 46 kJ",
@@ -310,7 +327,8 @@
       "id": "18",
       "nome": "Mostarda em pó 35g",
       "categoria": "Linha Reserva",
-      "preco": 22.89,
+      "precoOriginal": 22.89,
+      "preco": "",
       "imagem": "imagens/mostarda-em-po.png",
       "informacaoNutricional": {
         "Valor Energético": "20 kcal = 84 kJ",
@@ -328,7 +346,8 @@
       "id": "19",
       "nome": "Sopão Legumes com Macarrão 196g",
       "categoria": "Sopas",
-      "preco": 7.99,
+      "precoOriginal": 7.99,
+      "preco": "",
       "imagem": "imagens/kitano-sopao-legumes.png",
       "informacaoNutricional": {
         "Valor Energético": "33 kcal = 138 kJ",
@@ -346,7 +365,8 @@
       "id": "20",
       "nome": "Sopão de Carne 196g",
       "categoria": "Sopas",
-      "preco": 11.49,
+      "precoOriginal": 11.49,
+      "preco": "",
       "imagem": "imagens/kitano-sopao-carne.png",
       "informacaoNutricional": {
         "Valor Energético": "32 kcal = 133 kJ",
@@ -364,7 +384,8 @@
       "id": "21",
       "nome": "Sopão de Feijão 196g",
       "categoria": "Sopas",
-      "preco": 11.29,
+      "precoOriginal": 11.29,
+      "preco": "",
       "imagem": "imagens/kitano-sopao-feijao.png",
       "informacaoNutricional": {
         "Valor Energético": "31 kcal = 129 kJ",
@@ -382,7 +403,8 @@
       "id": "22",
       "nome": "Kitano Mais Sabor Carnes 60g",
       "categoria": "Temperos",
-      "preco": 3.79,
+      "precoOriginal": 3.79,
+      "preco": "",
       "imagem": "imagens/kitano-mais-sabor-carnes.png",
       "informacaoNutricional": {
         "Valor Energético": "6 kcal = 25 kJ",
@@ -400,7 +422,8 @@
       "id": "23",
       "nome": "Kitano Mais Sabor Aves 60g",
       "categoria": "Temperos",
-      "preco": 3.69,
+      "precoOriginal": 3.69,
+      "preco": "",
       "imagem": "imagens/kitano-mais-sabor-aves.png",
       "informacaoNutricional": {
         "Valor Energético": "9 kcal = 37 kJ",
@@ -418,7 +441,8 @@
       "id": "24",
       "nome": "Kitano Mais Sabor Nordestino 60g",
       "categoria": "Temperos",
-      "preco": 3.89,
+      "precoOriginal": 3.89,
+      "preco": "",
       "imagem": "imagens/kitano-mais-sabor-nordestino.png",
       "informacaoNutricional": {
         "Valor Energético": "8 kcal = 33 kJ",
